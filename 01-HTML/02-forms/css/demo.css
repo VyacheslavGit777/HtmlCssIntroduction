@@ -1,0 +1,17 @@
+.DemoSection {
+  width: 100vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.DemoForm div {
+  padding-bottom: 10px;
+}
+
+.buttonShow {
+  display: none;
+}/*# sourceMappingURL=demo.css.map */
